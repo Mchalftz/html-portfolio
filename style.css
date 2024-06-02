@@ -1,0 +1,36 @@
+html{
+    background-color:black;
+}
+
+h1{
+    color: white;
+    text-transform: uppercase;
+}
+#meme{
+    /* margin: 50px; */
+    margin-top: 150px;
+    /* padding: 50px; */
+    /* height: 50%; */
+    width: 50%;
+    margin-left: 25% ;
+    background-color: black;
+    text-align: center;
+    font-family: "Libre Baskerville", serif;
+
+}
+
+#samePicture{
+    height: 100%;
+    /* width: 100%; */
+    border: 5px solid white;
+}
+
+
+#sameP{
+    color: white;
+}
+
+#sameF{
+    color: white;
+    text-align: end;
+}
